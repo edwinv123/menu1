@@ -1,6 +1,6 @@
 [class^="col"] {
     max-height: 200px;
-    border: 1px solid black;
+    border: 1px solid white;
 }
 
 .img-fluid {
@@ -8,5 +8,7 @@
 }
 
 body {
-    background-color: wheat;
+    background-color: bisque;
+    color: white;
 }
+
